@@ -13,3 +13,8 @@
 git clone https://github.com/ваш-username/simple-task-manager.git
 cd simple-task-manager
 ```
+## Разработка
+Для добавления новой функциональности:
+1. Создайте ветку от main
+2. Реализуйте feature
+3. Сделайте PR в main
